@@ -34,5 +34,3 @@ if __name__ == '__main__':
     #print(aggregated_results.collect())
 
     logger.info("this is the end of main")
-
-    #tp
